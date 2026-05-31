@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+groq
+streamlit-mic-recorder
+plotly
+requests
+streamlit-lottie
