@@ -540,4 +540,4 @@ def show_analyzer(switch_page_callback):
     # -----------------------------------
     # FOOTER
     # -----------------------------------
-    st.html("""<div style="border-top:1px solid rgba(255,255,255,0.07);margin-top:2rem;text-align:center;padding:20px;color:#3A3F4E;font-size:12px;font-family:'Manrope',sans-serif;">Built with ❤️ using Python, Streamlit, Groq &amp; Whisper<br>AI Career Intelligence Platform</div>""")
+    st.html("""<div style="border-top:1px solid rgba(255,255,255,0.07);margin-top:2rem;text-align:center;padding:20px;color:#3A3F4E;font-size:12px;font-family:'Manrope',sans-serif;">Built with ❤️ By Mohit Singh</div>""")
